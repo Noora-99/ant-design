@@ -5,8 +5,8 @@ const App: React.FC = () => (
   <>
     <Divider orientation="left">Presets</Divider>
     <Space size={[0, 8]} wrap>
-      <Tag color="magenta">magenta</Tag>
-      <Tag color="red">red</Tag>
+      <Tag color="magenta">95%浓硫酸</Tag>
+      <Tag color="red">二氧化硫</Tag>
       <Tag color="volcano">volcano</Tag>
       <Tag color="orange">orange</Tag>
       <Tag color="gold">gold</Tag>
